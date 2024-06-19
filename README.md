@@ -1,1 +1,1 @@
-Descriptions of algorithms, datasets used to derive indicators for mostly agricultural use.
+Descriptions of algorithms and datasets used to derive indicators for mostly agricultural use. For the meantime, we concentrate on the category-based indicators. These are indicators which are determined with  algorithms that make use of the categories as they are stored in the tables categories, category_codes and category_code_crops in the AgroDataCube database. 
